@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/cat_processors"
+        android:orderInCategory="1"
+        android:title="@string/cat_processors" />
+    <item
+        android:id="@+id/cat_motherboards"
+        android:orderInCategory="2"
+        android:title="@string/cat_motherboards" />
+    <item
+        android:id="@+id/cat_ssd"
+        android:orderInCategory="3"
+        android:title="@string/cat_ssd" />
+    <item
+        android:id="@+id/cat_RAM_memory"
+        android:orderInCategory="4"
+        android:title="@string/cat_RAM_memory" />
+    <item
+        android:id="@+id/cat_video_cards"
+        android:orderInCategory="5"
+        android:title="@string/cat_video_cards" />
+</menu>

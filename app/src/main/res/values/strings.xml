@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LuckyShoppingKT</string>
+
+    <string name="cat_video_cards">Видеокарты</string>
+    <string name="cat_RAM_memory">Оперативная память</string>
+    <string name="cat_processors">Процессоры</string>
+    <string name="cat_ssd">SSD</string>
+    <string name="cat_motherboards">Материнская плата</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="full_description">Полное описание</string>
+    <string name="todo">TODO</string>
+
+
+</resources>

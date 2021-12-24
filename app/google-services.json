@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "798515889685",
+    "firebase_url": "https://luckyshoping-94087-default-rtdb.firebaseio.com",
+    "project_id": "luckyshoping-94087",
+    "storage_bucket": "luckyshoping-94087.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798515889685:android:90d95f4a8bcbe2f090301c",
+        "android_client_info": {
+          "package_name": "com.example.luckyshoping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798515889685-nrbn9ghaq554u8vh90osvuo9oa0g046g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtaCAbeYaPUcDgFQVOlfqx6ESKhgqKNfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798515889685-nrbn9ghaq554u8vh90osvuo9oa0g046g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798515889685:android:54c0124d012fa66390301c",
+        "android_client_info": {
+          "package_name": "com.example.luckyshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798515889685-nrbn9ghaq554u8vh90osvuo9oa0g046g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtaCAbeYaPUcDgFQVOlfqx6ESKhgqKNfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798515889685-nrbn9ghaq554u8vh90osvuo9oa0g046g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
